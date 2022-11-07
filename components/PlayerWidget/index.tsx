@@ -1,6 +1,5 @@
 import React from 'react';
 import { Text, Image, View, StyleSheet } from 'react-native';
-import { Song } from '../../types'
 import { EvilIcons, FontAwesome } from '@expo/vector-icons';
 
 const song = {
